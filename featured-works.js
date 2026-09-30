@@ -1,3 +1,5 @@
 /* الأعمال المشهورة المختارة يدويًا لمنطقة الاكتشاف بالصفحة الرئيسية — تُدار من admin.html */
 
-window.FEATURED_WORKS = [];
+window.FEATURED_WORKS = [
+  "AAA2"
+];
